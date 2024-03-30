@@ -11,8 +11,8 @@ These are the steps I'm taking during a run:
 5. Connect the USB Relay to the Remote Shutter Cable on the D850
 6. Power on the Camera, verify that you can see the camera from the Computer's File Explorer
 7. Start SolarEclipseTimer application
-8. Click on the 'Full Log', then 'Session', then 'Full Log' and 'Session' tab once more (there is a bug with the logging showing up I still have to figure out)
-9. Click on the 'Event Info' tab and make sure your event times are correct for your location.  Use a phone app like Solar Eclipse Timer to find the correct contact times for your exact location.  Restart the SolarEclipseTrigger application if you had to change values and start from point 7 again.
+8. Click on the 'Event Info' tab and make sure your event times are correct for your location.  Use a phone app like Solar Eclipse Timer to find the correct contact times for your exact location.  If you had to make any changes, close SolarEclipseTrigger and go back to Point 7.
+9. Click on the 'Full Log', then 'Session', then 'Full Log' and 'Session' tab once more (there is a bug with the logging showing up I still have to figure out)
 10. Click on 'Set Camera Date Time' in the upper left corner of the application
 11. Click on 'Set Focus' tab
 12. Click 'Start Focus Procedure' and frame the sun and set the focus.
@@ -24,4 +24,9 @@ These are the steps I'm taking during a run:
 Make sure you run at LEAST one full run with all the equipment setup exactly how you will do it to make sure batteries hold up, timings are ok etc.  Preferably do a full run with the event date in Event Info changed to the current date and the use the actual even times as if it was April 8th.
 
 Camera Settings:
-I have my camera set to not review photos after they are taken.  I also just use the XQD / CFExpress card and set the second card to overflow.  Writing to both cards makes the camera slower and can cause issues with the timing of the sequence.
+- Camera set to not review photos after they are taken
+- Just use the XQD / CFExpress card and set the second card to overflow.  Writing to both cards makes the camera slower and can cause issues with the timing of the sequence.
+- Disable WiFi and Bluetooth
+- Set Camera to Airplane Mode
+- Set Camera to Auto Focus and Lens to A/M (needed for software controlled focus drive to work)
+- Set Camera to use Back Button Focusing (don't want to trigger autofocus when we take an exposure)
