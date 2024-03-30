@@ -23,4 +23,4 @@ These are the steps I'm taking during a run:
 Make sure you run at LEAST one full run with all the equipment setup exactly how you will do it to make sure batteries hold up, timings are ok etc.  Preferably do a full run with the event date in Event Info changed to the current date and the use the actual even times as if it was April 8th.
 
 Camera Settings:
-I have my camera set to not review photos after they are taken.
+I have my camera set to not review photos after they are taken.  I also just use the XQD / CFExpress card and set the second card to overflow.  Writing to both cards makes the camera slower and can cause issues with the timing of the sequence.
