@@ -31,6 +31,7 @@ Make sure you run at LEAST one full run with all the equipment setup exactly how
 
 Camera Settings:
 - Camera set to not review photos after they are taken
+- Set Live View Photography to CL1
 - Just use the XQD / CFExpress card and set the second card to overflow.  Writing to both cards makes the camera slower and can cause issues with the timing of the sequence.
 - Disable WiFi and Bluetooth
 - Set Camera to Airplane Mode
