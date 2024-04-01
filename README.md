@@ -1,5 +1,11 @@
 Application that remote controls a Nikon D850 during a Solar Eclipse.  The software features the ability to configure different phases in relation to C1 - C4 that can take different sets of photos, including in-camera brackets.  It uses a CH340 USB Relay as a remote shutter trigger.  Instructions on how to create the shutter trigger are in the attached document.
 
+Pre-Requisite:
+Install the latest USB Relay Driver:
+https://github.com/marcel-isler/SolarEclipseTrigger/blob/main/USB%20Relay/Driver/CH341SER%20v3.8.zip
+Install the latest C++ Redistributable:
+https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170
+
 Get the executable from the Release Link:
 https://github.com/marcel-isler/SolarEclipseTrigger/releases
 
