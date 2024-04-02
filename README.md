@@ -7,7 +7,7 @@ Install the latest C++ Redistributable:
 https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170
 
 Get the executable from the Release Link:
-https://github.com/marcel-isler/SolarEclipseTrigger/releases
+https://github.com/marcel-isler/SolarEclipseTrigger/releases/tag/v0.9.4
 
 These are the steps I'm taking during a run:
 1. Format the memory cards in the Camera
